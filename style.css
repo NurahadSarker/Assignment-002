@@ -1,0 +1,32 @@
+/* font family here */
+.noto-serif{
+  font-family: "Noto Serif", serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.inter{
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+
+/* design start here */
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+/* navigation-bar design start here */
+
+nav{
+    margin: 30px 102px 0px 150px;
+}
+
+ul li{
+    margin-right: 48px;
+}
+
