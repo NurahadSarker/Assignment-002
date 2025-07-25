@@ -1,7 +1,5 @@
 @import "tailwindcss";
 
-
-/* font family here */
 .noto-serif{
   font-family: "Noto Serif", serif;
   font-optical-sizing: auto;
